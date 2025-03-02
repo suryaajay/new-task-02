@@ -117,3 +117,12 @@ private double balance;
         account2.displayBalance();
     }
 }
+// Output
+Current Balance: 0.0
+Deposited: 1000.0
+Withdrew: 500.0
+Current Balance: 500.0
+Current Balance: 2000.0
+Deposited: 500.0
+Insufficient balance.
+Current Balance: 2500.0
