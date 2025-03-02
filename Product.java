@@ -66,3 +66,27 @@ class XYZ {
         System.out.println("Total amount spent on all products: " + totalAmountSpent);
     }
 }
+
+// Output
+Enter details for product 1:
+Product ID: 1
+Price: 25
+Quantity: 2
+Enter details for product 2:
+Product ID: 2
+Price: 50
+Quantity: 3
+Enter details for product 3:
+Product ID: 3
+Price: 90
+Quantity: 5
+Enter details for product 4:
+Product ID: 4
+Price: 60
+Quantity: 5
+Enter details for product 5:
+Product ID: 5
+Price: 80
+Quantity: 6
+Product ID with the highest price: 3
+Total amount spent on all products: 1430.0
