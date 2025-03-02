@@ -44,3 +44,9 @@ public class Main1 {
         emp.display(); // Display employee details
     }
 }
+
+// output
+Name: Alice
+Age: 30
+Employee ID: 101
+Salary: 50000.0
